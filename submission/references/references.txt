@@ -1,0 +1,15 @@
+[1] M. Lifshits, R. Goldenberg, E. Rivlin, M. Rudzsky, and M. Adel,
+    “Image-Based Wafer Navigation,” IEEE Trans. Semiconductor Manufacturing,
+    vol. 17, no. 3, pp. 432–443, Aug. 2004, doi: 10.1109/TSM.2004.831939.
+
+[2] T. Hiroi, M. Tanaka, C. Shishido, and M. Watanabe,
+    “Robust Pattern Registration Method using Plural Evaluation Functions
+    for LSI Patterns,” IEEJ Trans. Electronics, Information and Systems,
+    vol. 124, no. 3, pp. 621–628, 2004, doi: 10.1541/ieejeiss.124.621.
+
+
+[3] Y. Nam, S. Joo, N. Kwak, K. Kim, and D.-N. Kim,
+    “Precise Pattern Alignment for Die-to-Database Inspection Based on
+    the Generative Adversarial Network,” IEEE Trans. Semiconductor
+    Manufacturing, vol. 35, no. 3, pp. 532–539, Aug. 2022,
+    doi: 10.1109/TSM.2022.3171788.
